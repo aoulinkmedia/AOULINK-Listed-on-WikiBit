@@ -1,8 +1,9 @@
-<img width="3072" height="5461" alt="AOULINK WikiBit Scoring_EN" src="https://github.com/user-attachments/assets/bb2e2b94-d28e-45ff-8778-28a279bfac55" />
+<img width="3072" height="5461" alt="AOULINK WikiBit Scoring_EN" src="https://github.com/user-attachments/assets/16be1717-580d-4954-8f14-60f140fe6751" /><img width="3072" height="5461" alt="AOULINK WikiBit Scoring_EN" src="https://github.com/user-attachments/assets/018efa3e-3e5b-4c9b-abe2-8b5736825d1c" />
+
 
 # AOULINK Listed on WikiBit
 
-AOULINK is now listed on WikiBit with a 7.99 score and #1 position on the popularity leaderboard.
+AOULINK is now listed on WikiBit with a #1 position on the popularity leaderboard.
 
 # Key Highlights
 
